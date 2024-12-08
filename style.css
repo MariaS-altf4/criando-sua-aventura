@@ -1,0 +1,34 @@
+body {
+    background-color: #dab5eb;
+    color: black;
+        font-family: "Gochi Hand", cursive;
+        font-weight: 300;
+        font-style: normal;
+        display: flex;
+        height: 600px;
+        margin: 10;
+}
+
+button {
+    background-color: #6b2c66;
+    color: white;
+    font-family: "Gochi Hand", cursive;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
+
+main {
+    text-align: center;
+    max-width: 60%;
+}
+
+img {
+    max-width: 50%;
+
+}
